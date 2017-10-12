@@ -197,6 +197,9 @@ ul.social {
     margin-top: 1em;
 }
 
+#instagram img {
+    width: 100%;
+}
 
 #instagram_feed {
     width: 260px;
